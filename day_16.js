@@ -1,3 +1,4 @@
+// only for fun
 let todo = [];
 
 
